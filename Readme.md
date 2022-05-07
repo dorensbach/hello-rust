@@ -1,6 +1,6 @@
 # hello-rust
-
-### Data criação: 19.04.2022 - 23:01
+Github: (https://github.com/dorensbach/hello-rust)
+Data criação: 19.04.2022 - 23:01
 
 Meu primeiro contato com a lingagem `rust`.
 
