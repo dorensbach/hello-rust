@@ -8,3 +8,5 @@ Atualizei a versão do Rust no meu sistema de 1.56 para 1.60, junto com a GLIBC,
 
 Para começar, estou seguindo o tutorial do site oficial:
 (https://www.rust-lang.org/pt-BR/learn/get-started)
+
+Para rodar o programa: `cargo run`.
